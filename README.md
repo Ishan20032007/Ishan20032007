@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @Ishan20032007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi 👋 I'm Ishan
 
-<!---
-Ishan20032007/Ishan20032007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Computer Science Student
+🚀 Passionate about Web Development and Software Development
+
+## 🌐 Portfolio
+
+🔗 https://your-vercel-site.vercel.app
+
+## 🛠 Skills
+
+* C
+* C++
+* Java
+* Python
+* HTML
+* CSS
+* JavaScript
+* React
+
+## 📂 Projects
+
+* Fashionista Website
+* Employee Leave Management System
+* Java Spell Checker
+
+## 📜 Certifications
+
+* NPTEL Certification
+* C Programming
+* C++
+* Java
+* Python
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/Ishan20032007
